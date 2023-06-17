@@ -1,4 +1,4 @@
-<img width="1000" height="500" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
 <h1 align="center">Hi 👋, I'm Charles Anene</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
