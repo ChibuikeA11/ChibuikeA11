@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chibuikecharles111@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/chibuike/Downloads/CV%201.1%20(1).pdf](file:///C:/Users/chibuike/Downloads/CV%201.1%20(1).pdf)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Bwvl5IFfdov24u2v4I6L0m8BHgB_Hzi7MC8pH4uj4ok/edit?usp=sharing]
 
 - ⚡ Fun fact **I have never watched an episode of Game of thrones😅**
 
