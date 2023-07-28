@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, express JS**
 
-- 📫 How to reach me **chibuikecharles111@gmail.com**
+- 📫 How to reach me via <a href="chibuikecharles111@gmail.com">Email</a>
 
 - 📄 Know about my experiences via my <a href= "https://docs.google.com/document/d/1Bwvl5IFfdov24u2v4I6L0m8BHgB_Hzi7MC8pH4uj4ok/edit?usp=sharing">My Resume</a>
 
